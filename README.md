@@ -9,6 +9,10 @@ Below is a description of the files contained in this repository:
 - plot3.png: output of plot3.R script ("Plot 3")
 - plot4.R: R script to read in the source data and create Plot 4 as described below
 - plot4.png: output of plot4.R script ("Plot 4")
+- figure/unnamed-chunk2.png: example of Plot 1 utilized in README.md
+- figure/unnamed-chunk3.png: example of Plot 2 utilized in README.md
+- figure/unnamed-chunk4.png: example of Plot 3 utilized in README.md
+- figure/unnamed-chunk5.png: example of Plot 4 utilized in README.md
 
 ## Assignment Introduction
 

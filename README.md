@@ -1,4 +1,16 @@
-## Introduction
+## Repository Contents
+Below is a description of the files contained in this repository:
+- README.md: markdown file describing the contents of the repository and the details of the course assignment
+- plot1.R: R script to read in the source data and create Plot 1 as described below
+- plot1.png: output of plot1.R script ("Plot 1")
+- plot2.R: R script to read in the source data and create Plot 2 as described below
+- plot2.png: output of plot2.R script ("Plot 2")
+- plot3.R: R script to read in the source data and create Plot 3 as described below
+- plot3.png: output of plot3.R script ("Plot 3")
+- plot4.R: R script to read in the source data and create Plot 4 as described below
+- plot4.png: output of plot4.R script ("Plot 4")
+
+## Assignment Introduction
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
